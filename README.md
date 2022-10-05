@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Saurav Pant</h1>
 <h3 align="center">A Passionate Frontend Developer From India </h3>
 <img align="right" alt="Coding" width=400" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
