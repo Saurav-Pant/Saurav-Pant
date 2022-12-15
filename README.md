@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saurav-Pant&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Pant&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![Visitor Count](https://profile-counter.glitch.me/{poonam-adlakha}/count.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
