@@ -19,7 +19,7 @@
 
 <h2 align="center">  My Contributions </h2>
 
-![snake gif](https://github.com/Saurav-Pant/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Saurav-Pant/Saurav-Pant/blob/output/github-contribution-grid-snake.gif)
 
 ![Visitor Count](https://profile-counter.glitch.me/{Saurav-Pant}/count.svg)
 
