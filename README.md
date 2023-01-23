@@ -17,6 +17,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<h2 align="center">  My Contributions </h2>
+
+![snake gif](https://github.com/Saran-pariyar/Saurav-Pant/blob/output/github-contribution-grid-snake.gif)
 ![Visitor Count](https://profile-counter.glitch.me/{Saurav-Pant}/count.svg)
 
   ## 💰 You can help me by Donating
