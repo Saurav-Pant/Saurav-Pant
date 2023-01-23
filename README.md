@@ -1,7 +1,17 @@
-# 💫 Hi, I'm Saurav Pant:
+<center style="">
+<h1 align="center" >Hi 👋, I'm Saurav Pant</h1>
+  <h3 align="center">A passionate frontend developer</h3>
 
-🌱 I’m currently learning ReactJs<br><br>👨‍💻💬 Ask me about Java, Frontend Development<br><br>📫 How to reach me pantsaurav005@gmail.com
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"
+      ><img
+        src="https://github-profile-trophy.vercel.app/?username=Saurav-Pant"
+        alt="Saurav-Pant"
+    /></a>
+  </p>
 
+   <p align="center"> ⚡ Checkout my  <a href="https://sauravpant.netlify.app/" target="_blank" style="color:white; font-weight:bold;"> Portfolio Site</a>  </p>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-pant-790065239/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Saurav_Pant_) 
@@ -26,3 +36,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Saurav-Pant) 
 
+</center>
