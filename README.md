@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer.;Open-Source+Contributor.;Love+to+learn+new+stuffs...<3"></a>
 </p>
-  <p align="center">
-  </p>
 
 <br>
 
@@ -21,6 +19,8 @@
 - Passionate about learning new technologies and building projects
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
+
+<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br><br>
 
