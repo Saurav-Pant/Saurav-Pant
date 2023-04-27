@@ -42,13 +42,14 @@
 - **Front-End Development**:
 
   <div align="center">
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS badge">
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React badge">
-  <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge">
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge">
+<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 5px;">
+
 </div>
 
 <br>
