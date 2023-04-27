@@ -15,8 +15,6 @@
 
 <br>
 
-## About Me
-
 - Self-taught Front-end Developer
 - Open Source Contributor
 - Experienced in MERN Stack
