@@ -2,9 +2,9 @@
 <h1 align="center" >Hi 👋, I'm Saurav Pant</h1>
   <h3 align="center">A passionate frontend developer</h3>
 
-  <p align="center"></p>
+  <p align="center">
+  </p>
 
-   <p align="center"> ⚡ Checkout my  <a href="https://sauravpant.netlify.app/" target="_blank" style="color:white; font-weight:bold;"> Portfolio Site</a>  </p>
 <br>
 
 ## 🌐 Socials:
