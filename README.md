@@ -7,6 +7,9 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -20,7 +23,6 @@
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br><br>
 
@@ -95,6 +97,8 @@
 <br>
 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <br>
 <br>
@@ -113,6 +117,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <br>
 <br>
 
@@ -121,6 +127,7 @@
 <br>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
