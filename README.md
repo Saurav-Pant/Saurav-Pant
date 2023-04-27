@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer.;Open-Source+Contributor.;Love+to+learn+new+stuffs...<3"></a>
 </p>
+  <p align="center">
+  </p>
 
 <br>
 
@@ -131,5 +133,4 @@
 <br>
 <br>
 
-
-![snake gif](https://github.com/Saurav-Pant/Saurav-Pant/blob/main/assets/github-user-contribution.svg)
+</center>
