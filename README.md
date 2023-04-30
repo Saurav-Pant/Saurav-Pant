@@ -76,6 +76,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
     <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+
 </p>
 
     
