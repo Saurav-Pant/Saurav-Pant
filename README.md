@@ -113,8 +113,6 @@
 [![Saurav Pant GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Saurav-Pant&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- Github Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Saurav-Pant&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=00DDFF&fire=00DDFF&currStreakNum=00DDFF&currStreakLabel=DDDDDD&sideNums=00DDFF&sideLabels=DDDDDD&dates=DDDDDD" alt="GitHub Streak" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Saurav-Pant&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
 
 
