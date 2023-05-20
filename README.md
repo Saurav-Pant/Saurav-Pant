@@ -140,11 +140,11 @@
 
 <br>
 
-<!-- <li>
-<a href="https://twitter.com/_" target="_blank">
+<li>
+<a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li> -->
+</li>
 
 <br>
 	
