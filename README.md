@@ -17,9 +17,6 @@
 - Open Source Contributor
 - Experienced in MERN Stack
 - Passionate about learning new technologies and building projects
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
-<!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
-
 
 <br><br>
 
