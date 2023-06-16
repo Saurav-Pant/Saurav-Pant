@@ -130,7 +130,7 @@
 <ul>
 
 <li>
-<a href="[https://www.linkedin.com/in/saurav-pant-790065239/](https://www.linkedin.com/in/saurav-pant/)" target="_blank">
+<a href="https://www.linkedin.com/in/saurav-pant/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
