@@ -61,10 +61,20 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+
+<br>
+
+-**DataBase**:
+
+
+<p align="center">
     <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <!-- <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> -->
     <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    <img src="https://img.shields.io/badge/AppWrite-%230057D9.svg?style=for-the-badge&logo=appwrite" alt="AppWrite">
 </p>
+
 
 <br>
 
