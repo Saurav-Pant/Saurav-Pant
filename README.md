@@ -16,7 +16,7 @@
 - Self-taught Full-Stack Developer
 - Open Source Contributor/Maintainer
 - Experienced in MERN Stack
-- Passionate about learning new technologies and building projects
+- Passionate about learning new technologies and building projects...
 
 <br>
 <br>
