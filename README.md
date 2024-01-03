@@ -2,7 +2,7 @@
 
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer.;Open-Source+Contributor.;Love+to+learn+new+stuffs...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer.;Open-Source+Contributor+and+Maintainer.;Love+to+learn+new+stuffs...<3"></a>
 </p>
 
 <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-- Self-taught Full-Stack Developer
+- Full-Stack Developer
 - Open Source Contributor/Maintainer
 - Experienced in MERN Stack
 - Passionate about learning new technologies and building projects...
@@ -59,8 +59,8 @@
 - **Back-End Development**:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 </p>
 
 <br>
