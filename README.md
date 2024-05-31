@@ -77,6 +77,15 @@
 
 <br>
 
+<!--
+
+- **ORM**:
+<p align= "center">
+    <img src="https://avatars.githubusercontent.com/u/7680436?s=200&v=4" alt="Prisma ORM" width="50">
+    <img src="https://img.icons8.com/color/96/000000/database.png" alt="Drizzle ORM" width="50">
+</p>
+-->
+
 - **Containerization**:
 
 <p align="center">
@@ -90,12 +99,12 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
     
-<br>
+<!-- <br>
 
 - **Softwares and Tools**:
 
@@ -105,6 +114,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
+-->
 
 <br>
 
@@ -128,7 +138,7 @@
 [![Saurav Pant GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Saurav-Pant&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- Github Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-Pant&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Saurav-Pant&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
 
 
 </div>
